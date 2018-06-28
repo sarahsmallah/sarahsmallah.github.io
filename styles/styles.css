@@ -1,0 +1,55 @@
+html{
+    height:;}
+
+body {
+    font-family: 'Barlow Semi Condensed', 'Arial Narrow', Arial, sans-serif;
+    background:url("../img/photo-sarah-retouche-teste.jpg") #4168c1 no-repeat; 
+    background-size:cover;
+    text-align: center;
+    padding: 36px;
+}
+
+/* Page */
+.hero-page {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 960px;
+    text-align: left;
+    background: white;
+    margin: auto;
+    border-radius: 20px;
+}
+
+/* Image */
+.hero-image {
+    line-height: 0;
+}
+.hero-image img {
+    max-width: 100%;
+    height: auto;
+    opacity: 0%;
+}
+
+/* Contenu */
+.hero-contenu {
+    padding: 36px;
+    color: #78a9e4;
+    max-width: 50%;
+    box-sizing: border-box;
+  
+    
+
+}
+h3{
+    
+}
+h1 {color: #5d8dd6;
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+h2{
+    font-size:35px;
+    margin-top: 0;
+}
+p {background: }
